@@ -1,3 +1,8 @@
 id,name,content,label,date,resultat,predicted
+<<<<<<< HEAD
 LOXNEM2MRC9W3LRRKB,Twitter,hi,Positive,"Tue, 22 May 2018 07:29:33 +0200",0.532026469707489,Neutral
 TIY2YBUXOCTNQ5NT6E,Mohamed,hello,Positive,"Tue, 22 May 2018 07:29:44 +0200",0.44887441396713257,Neutral
+=======
+YYF8WKR0LEHAASRJER,Twitter,Hi,Positive,"Tue, 22 May 2018 07:45:57 +0200",0.532026469707489,Neutral
+DVGLCSWLD9FLWVBIHB,Mohamed,Hello,Positive,"Tue, 22 May 2018 07:46:02 +0200",0.44887441396713257,Neutral
+>>>>>>> 2af46fe42ea38f2467f512e3c4e52b3c8b2a49c6
