@@ -1,1 +1,1 @@
-http://ubuntu:7778/acc
+http://DESKTOP-RHGON5M:7778/acc
