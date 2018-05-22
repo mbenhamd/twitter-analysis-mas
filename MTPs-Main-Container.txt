@@ -1,1 +1,1 @@
-http://ubuntu:7778/acc
+http://DESKTOP-TC202QF:7778/acc
