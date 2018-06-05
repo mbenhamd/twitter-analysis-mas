@@ -1,21 +1,17 @@
 package agent;
 
-import java.util.ArrayList;
-
-import agent.MessageAgent.ReceiveMessage;
-import agent.MessageAgent.SendMessage;
 import jade.core.AID;
-import jade.core.Agent;
 import jade.core.behaviours.CyclicBehaviour;
 import jade.core.behaviours.OneShotBehaviour;
 import jade.domain.DFService;
-import jade.domain.FIPAAgentManagement.Envelope;
-import jade.domain.FIPAException;
 import jade.domain.FIPAAgentManagement.DFAgentDescription;
 import jade.domain.FIPAAgentManagement.ServiceDescription;
+import jade.domain.FIPAException;
 import jade.gui.GuiAgent;
 import jade.gui.GuiEvent;
 import jade.lang.acl.ACLMessage;
+
+import java.util.ArrayList;
 
 public class RemoteMessageAgent extends GuiAgent {
 

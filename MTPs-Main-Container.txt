@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-http://DESKTOP-RHGON5M:7778/acc
-=======
-http://DESKTOP-TC202QF:7778/acc
->>>>>>> 2af46fe42ea38f2467f512e3c4e52b3c8b2a49c6
+http://PA119542.eiffage.loc:7778/acc
