@@ -1,7 +1,7 @@
 # Multi Agent System Project
 ## Introduction
 It's an application using JADE Framework with Swing for the graphical interface.
-The aim is to analyse sentiment between a conversation between two agents.
+The aim is to analyse sentiment in a conversation between two agents.
 ## GUI
 <p align="center"> 
 <img src="https://github.com/mbenhamd/twitter-analysis-mas/blob/master/app-screenshot.png?raw=true">
